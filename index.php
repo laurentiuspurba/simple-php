@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset=utf-8 />
-<title>..::Gary's Page::..</title>
+<title>..::Chihuahua or Muffin Page::..</title>
   <script type="text/javascript">
     var index=0;
     function changeBanner(){ 
@@ -16,9 +16,9 @@
   <?php echo '<strong><h1>Still Chihuahua or Muffin page!!!</h1></strong>'; ?>
   <div id="wrapper">
     <div>
-      <img src="images/chihuahua1.jpeg" />
-      <img src="images/muffin1.jpeg" />
-      <img src="iamges/chihuahua_or_muffin.jpeg" />
+      <img src="images/chihuahua1.png" />
+      <img src="images/muffin1.png" />
+      <img src="iamges/chihuahua_or_muffin.png" />
     </div>
   </div>
 </body>
