@@ -16,9 +16,9 @@
   <?php echo '<strong><h1>Still Chihuahua or Muffin page!!!</h1></strong>'; ?>
   <div id="wrapper">
     <div>
-      <img src="images/1.jpeg" />
-      <img src="images/2.jpeg" />
-      <img src="iamges/3.jpeg" />
+      <img src="images/chihuahua1.jpeg" />
+      <img src="images/muffin1.jpeg" />
+      <img src="iamges/chihuahua_or_muffin.jpeg" />
     </div>
   </div>
 </body>
