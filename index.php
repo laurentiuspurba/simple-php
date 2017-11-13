@@ -18,7 +18,7 @@
     <div>
       <img src="images/chihuahua1.png" />
       <img src="images/muffin1.png" />
-      <img src="iamges/chihuahua_or_muffin.png" />
+      <img src="images/chihuahua_or_muffin.png" />
     </div>
   </div>
 </body>
